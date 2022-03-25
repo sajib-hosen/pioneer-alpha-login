@@ -9,7 +9,7 @@ const Home = () => {
     return (
         <div>
             <p>This is home</p>
-            <button onClick={ handleLogout } >Log out</button>
+            <button className='border-2 px-4 hover:bg-violet-700 transition-all duration-300 ease-linear hover:text-white ' onClick={ handleLogout } >Log out</button>
         </div>
     );
 };

@@ -66,7 +66,7 @@ const Registration = () => {
                         </div>
                     </div>
                     
-                    <button className='border-2 w-full mt-3 rounded bg-violet-800 p-2 text-white '>Register</button>
+                    <button className='border-2 w-full mt-3 rounded bg-violet-700 hover:bg-indigo-900 transition-all duration-300 ease-in-out p-2 text-white '>Register</button>
                 </form>
             </div>
         </div>
